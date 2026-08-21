@@ -1,7 +1,7 @@
 """
 SAFE-AD: Real-Time Spacecraft Anomaly Detection
 Live Sensor Stream Simulation Dashboard
-Author: K R Janani | MSc Data Science | SRC
+Author: K R Janani | MSc Data Science 
 """
 
 import streamlit as st
